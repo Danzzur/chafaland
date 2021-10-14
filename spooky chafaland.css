@@ -78,6 +78,6 @@
   transform: scaleX(-1) scaleY(-1);
 }
 
-.blobContainer-pmnxKB[data-dnd-name="SPOOKY CHAFALAND"]:hover .icon-27yU2q[src^="https://cdn.discordapp.com/icons/811203761619337259/cbbe557dad5f5f43e5dea3f9e7a75e14"] {
+.blobContainer-pmnxKB[data-dnd-name="SPOOKY CHAFALAND"]:hover .icon-27yU2q[src^=""] {
   content: url("https://cdn.dribbble.com/users/2621850/screenshots/10885514/media/3eb61d9f3b35f3811ed85bfee428cf07.gif");
 }
