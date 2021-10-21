@@ -31,6 +31,10 @@
   to { background-position: -300% center; }
 }
 
+
+
+
+
 /*alfR3d*/
 
 .membersGroup-v9BXpm[aria-label*="TOCINO"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 7, 1);"] {
@@ -41,11 +45,9 @@
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
 }
-
 @keyframes shine {
   to { background-position: -300% center; }
 }
-
 .message-2qnXI6[data-user-id="228655728473145344"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[data-author-id="228655728473145344"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[vz-user-id="228655728473145344"] .username-1A8OIy,
@@ -67,6 +69,7 @@
 
 
 
+
 /*Chuby*/
 
 .membersGroup-v9BXpm[aria-label*="Traficante de pelos lunares"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(221, 30, 121);"] {
@@ -77,7 +80,6 @@
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
 }
-
 .message-2qnXI6[data-user-id="275041653385986050"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[data-author-id="275041653385986050"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[vz-user-id="275041653385986050"] .username-1A8OIy,
@@ -95,7 +97,6 @@
   -webkit-background-clip: text;
   background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 50%, #24468E 70%, #9AD9EB 80%, #D80970 100%);
 }
-
 @keyframes shine {
   to { background-position: -300% center; }
 }
