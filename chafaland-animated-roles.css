@@ -1,5 +1,36 @@
 /*ROLES ANIMADOS*/
 
+/*Danzzur*/
+
+.membersGroup-v9BXpm[aria-label*="Developer"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(0, 76, 153);"] {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  background-image: linear-gradient(-60deg, #004C99 10%, #53D6C2 20%, #3AAFE5 30%, #0A70DC 40%, #5712D8 50%, #6B3BC6 60%, #8246F2 70%, #8B51B9 80%, #D354E5 90%, #004C99 100%);
+  animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+}
+.message-2qnXI6[data-user-id="544520937077473314"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="544520937077473314"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="544520937077473314"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="544520937077473314"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="544520937077473314"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="544520937077473314"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="544520937077473314"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="544520937077473314"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="544520937077473314"] .username-2b1r56,
+.root-3QyAh1[data-user-id="544520937077473314"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #004C99 10%, #53D6C2 20%, #3AAFE5 30%, #0A70DC 40%, #5712D8 50%, #6B3BC6 60%, #8246F2 70%, #8B51B9 80%, #D354E5 90%, #004C99 100%);
+}
+@keyframes shine {
+  to { background-position: -300% center; }
+}
+
 /*alfR3d*/
 
 .membersGroup-v9BXpm[aria-label*="TOCINO"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(255, 7, 1);"] {
@@ -9,6 +40,10 @@
   background-image: linear-gradient(-60deg, #AD1519 10%, #FABD00 30%, #AD1519 100%);
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
+}
+
+@keyframes shine {
+  to { background-position: -300% center; }
 }
 
 .message-2qnXI6[data-user-id="228655728473145344"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
@@ -27,10 +62,6 @@
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
   background-image: linear-gradient(-60deg, #AD1519 10%, #FABD00 30%, #AD1519 100%);
-}
-
-@keyframes shine {
-  to { background-position: -300% center; }
 }
 
 
