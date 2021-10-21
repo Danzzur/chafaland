@@ -6,7 +6,7 @@
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
-  background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 30%, #24468E 50%, #C4C4C4 70%, #FFFFFF 85%, #9AD9EB 100%);
+  background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 50%, #24468E 70%, #9AD9EB 80%, #D80970 100%);
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
 }
@@ -26,7 +26,7 @@
   background-size: 300%;
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
-  background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 30%, #24468E 50%, #C4C4C4 70%, #FFFFFF 85%, #9AD9EB 100%);
+  background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 50%, #24468E 70%, #9AD9EB 80%, #D80970 100%);
 }
 
 @keyframes shine {
