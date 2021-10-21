@@ -28,7 +28,7 @@
   background-image: linear-gradient(-60deg, #004C99 10%, #53D6C2 20%, #3AAFE5 30%, #0A70DC 40%, #5712D8 50%, #6B3BC6 60%, #8246F2 70%, #8B51B9 80%, #D354E5 90%, #004C99 100%);
 }
 @keyframes shine {
-  to { background-position: -300% center; }
+  to { background-position: 300% center; }
 }
 
 /*toktokbychim*/
@@ -76,9 +76,6 @@
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
 }
-@keyframes shine {
-  to { background-position: -300% center; }
-}
 .message-2qnXI6[data-user-id="228655728473145344"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[data-author-id="228655728473145344"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
 .message-2qnXI6[vz-user-id="228655728473145344"] .username-1A8OIy,
@@ -95,6 +92,9 @@
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
   background-image: linear-gradient(-60deg, #AD1519 10%, #FABD00 30%, #AD1519 100%);
+}
+@keyframes shine {
+  to { background-position: -300% center; }
 }
 
 
