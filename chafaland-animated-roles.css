@@ -89,6 +89,15 @@
   -webkit-background-clip: text;
   background-image: linear-gradient(-60deg, #AD1519 10%, #FABD00 30%, #AD1519 100%);
 }
+.userPopout-xaxa6l[data-user-id="228655728473145344"] .profileBadges-ohc0Vu::before {
+  content: "";
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin: 0px 8px 0 0;
+  pointer-events: none;
+  background: url("http://assets.stickpng.com/images/580b585b2edbce24c47b2829.png") center/100% no-repeat;
+}
 
 
 /*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -121,6 +130,19 @@
   -webkit-background-clip: text;
   background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 50%, #24468E 70%, #9AD9EB 80%, #D80970 100%);
 }
+.userPopout-xaxa6l[data-user-id="275041653385986050"] .profileBadges-ohc0Vu::before {
+  content: "";
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin: 0px 8px 0 0;
+  pointer-events: none;
+  background: url("https://cdn141.picsart.com/333792421023211.png?type=webp&to=min&r=640") center/100% no-repeat;
+}
+
+
+
+
 
 /*--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
