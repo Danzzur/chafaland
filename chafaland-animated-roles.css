@@ -1,5 +1,6 @@
 /*ROLES ANIMADOS*/
 
+/*Chuby*/
 .membersGroup-v9BXpm[aria-label*="Traficante de pelos lunares"] ~ .member-3-YXUe .roleColor-rz2vM0[style="color: rgb(221, 30, 121);"] {
   color: transparent !important;
   font-weight: bold;
@@ -7,6 +8,24 @@
   background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 30%, #24468E 50%, #C4C4C4 70%, #FFFFFF 85%, #9AD9EB 100%);
   animation: shine 10s linear infinite;
   -webkit-background-clip: text;
+}
+
+.message-2qnXI6[data-user-id="275041653385986050"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="275041653385986050"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="275041653385986050"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="275041653385986050"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="275041653385986050"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="275041653385986050"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="275041653385986050"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="275041653385986050"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="275041653385986050"] .username-2b1r56,
+.root-3QyAh1[data-user-id="275041653385986050"] .username-2b1r56 {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  animation: shine 10s linear infinite;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(-60deg, #D80970 10%, #8C579C 30%, #24468E 50%, #C4C4C4 70%, #FFFFFF 85%, #9AD9EB 100%);
 }
 
 @keyframes shine {
