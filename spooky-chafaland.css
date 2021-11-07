@@ -1,5 +1,5 @@
 /* COSO PARA WEAS BIEN BOMNITAS DEL SPOOKY MONTH */
-
+/*
 .container-3w7J-x[aria-label^="SPOOKY CHAFALAND"] .header-2V-4Sw {
   height: 150px;
   padding: 16px;
@@ -154,8 +154,12 @@
 .container-3w7J-x[aria-label^="SPOOKY CHAFALAND"] .content-3YMskv > :nth-child(47) .icon-1DeIlz, .container-3w7J-x[aria-label^="SPOOKY CHAFALAND"] .content-3YMskv > :nth-child(47) .container-2ax-kl {
   color: #265057;
 }
+*/
+
 
 /*Vaina de controles*/
+
+/*
 .container-3w7J-x[aria-label^="SPOOKY CHAFALAND"] + .panels-j1Uci_ > .container-3baos1 .button-14-BFJ {
   color: #f7630c !important;
 }
@@ -174,8 +178,12 @@
 .blobContainer-pmnxKB[data-dnd-name="SPOOKY CHAFALAND"]:hover .icon-27yU2q[src^=""] {
   content: url("https://cdn.dribbble.com/users/2621850/screenshots/10885514/media/3eb61d9f3b35f3811ed85bfee428cf07.gif");
 }
+/*
+
 
 /*R A N D O M*/
+
+/*
 .headerButton-3in1-b[aria-label^="SPOOKY CHAFALAND"]::after {
   content: "";
   position: fixed;
@@ -187,3 +195,4 @@
   pointer-events: none;
   opacity: 0.666;
 }
+*/
